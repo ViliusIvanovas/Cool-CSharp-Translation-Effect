@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cool-CSharp-Translation-Effect/1.0.0": {
+        "runtime": {
+          "Cool-CSharp-Translation-Effect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cool-CSharp-Translation-Effect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

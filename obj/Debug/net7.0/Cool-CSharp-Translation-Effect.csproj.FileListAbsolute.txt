@@ -1,0 +1,15 @@
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\bin\Debug\net7.0\Cool-CSharp-Translation-Effect.exe
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\bin\Debug\net7.0\Cool-CSharp-Translation-Effect.deps.json
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\bin\Debug\net7.0\Cool-CSharp-Translation-Effect.runtimeconfig.json
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\bin\Debug\net7.0\Cool-CSharp-Translation-Effect.dll
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\bin\Debug\net7.0\Cool-CSharp-Translation-Effect.pdb
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.csproj.AssemblyReference.cache
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.AssemblyInfoInputs.cache
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.AssemblyInfo.cs
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.dll
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\refint\Cool-CSharp-Translation-Effect.dll
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.pdb
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\Cool-CSharp-Translation-Effect.genruntimeconfig.cache
+C:\Users\ivano\Documents\CSharp projects\Cool-CSharp-Translation-Effect\obj\Debug\net7.0\ref\Cool-CSharp-Translation-Effect.dll
